@@ -2,5 +2,6 @@
 
 Este es mi repositorio del proyecto de GitExpert de React.
 
-Vite
-React
+Technologies: Vite, React.
+
+ _Deploy: `https://gif-searcher-cazavi.netlify.app`_
